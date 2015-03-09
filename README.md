@@ -2,14 +2,7 @@
 
 Makeathon Team: Andy Newman, Emily Sas, Bibiana Cristofol, Marcin Wal, Richard 
 
-[![Code Climate](https://codeclimate.com/github/andyg72/smart_twits/badges/gpa.svg)](https://codeclimate.com/github/andyg72/smart_twits) [![Coverage Status](https://coveralls.io/repos/andyg72/smart_twits/badge.svg)](https://coveralls.io/r/andyg72/smart_twits)
+This is a MakersAcadmy project called Makeathon.
 
-
-1. git pull origin development
-2. git pull origin development wordfrequency
-3. git checkout development
-4. git checkout wordfrequency
-
-Setting up a remote
-remember don't do git push origin master!!!
-
+It takes twitter's top trends and tries to understand/explain why these particular subjects are trending.
+It looks takes into accout words frequency and some media news frequency using mainly twitter API.
